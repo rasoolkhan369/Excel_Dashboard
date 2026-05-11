@@ -1,2 +1,1 @@
-# Excel_Dashboard
-creating  dashboards through excel and some functions
+Chocolate Factory Sales Data
